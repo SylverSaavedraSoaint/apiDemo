@@ -1,0 +1,81 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "afif",
+      "surname": "Pekalongan",
+      "age": 24,
+      "dni": "0857412312312"
+    },
+    {
+      "id": 2,
+      "name": "bagus",
+      "surname": "Jakarta",
+      "age": 22,
+      "dni": "0838412312312"
+    },
+    {
+      "id": 3,
+      "name": "hendro",
+      "surname": "Ngawi",
+      "age": 23,
+      "dni": "08574195842312"
+    },
+    {
+      "id": 4,
+      "name": "hadi",
+      "surname": "Palu",
+      "age": 21,
+      "dni": "08574195842312"
+    },
+    {
+      "id": 5,
+      "name": "esti",
+      "surname": "Lampung",
+      "age": 24,
+      "dni": "08574195842312"
+    },
+    {
+      "id": 6,
+      "name": "yayan",
+      "surname": "Groboga",
+      "age": 21,
+      "dni": "08574295842312"
+    },
+    {
+      "id": 7,
+      "name": "raisa",
+      "surname": "Malang",
+      "age": 23,
+      "dni": "08574195842312"
+    },
+    {
+      "id": 8,
+      "name": "gatra",
+      "surname": "Solo",
+      "age": 23,
+      "dni": "08574195842312"
+    },
+    {
+      "id": 9,
+      "name": "bambang",
+      "surname": "Salatiga",
+      "age": 23,
+      "dni": "08574195842312"
+    },
+    {
+      "id": 10,
+      "name": "Budi",
+      "surname": "Kediri",
+      "age": 27,
+      "dni": "08574195842312"
+    },
+    {
+      "id": 11,
+      "name": "dedi",
+      "surname": "Aceh",
+      "age": 25,
+      "dni": "08574195842312"
+    }
+  ]
+}
